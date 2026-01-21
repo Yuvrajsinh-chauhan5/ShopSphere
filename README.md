@@ -136,9 +136,9 @@ This project is for **educational purposes only**.
 
 ## 🎯 Author
 
-**Yuvraj Chauhan**
+**Yuvrajsinh Chauhan**
 GitHub: [https://github.com/Yuvrajsinh-chauhan5](https://github.com/Yuvrajsinh-chauhan5)
-LinkedIn: linkedin.com/in/yuvrajsinh-chauhan-762b742b3
+LinkedIn: (https://www.linkedin.com/in/yuvrajsinh-chauhan-762b742b3/)
 
 ```
 
