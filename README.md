@@ -138,7 +138,7 @@ This project is for **educational purposes only**.
 
 **Yuvraj Chauhan**
 GitHub: [https://github.com/Yuvrajsinh-chauhan5](https://github.com/Yuvrajsinh-chauhan5)
-LinkedIn: [https://www.linkedin.com/in/yuvraj-chauhan](https://www.linkedin.com/in/yuvrajsinh-chauhan)
+LinkedIn: linkedin.com/in/yuvrajsinh-chauhan-762b742b3
 
 ```
 
