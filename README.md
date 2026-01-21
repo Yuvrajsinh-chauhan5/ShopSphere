@@ -3,7 +3,7 @@
 
 # ShopSphere
 
-![ShopSphere Logo](./frontend/src/assets/unplugged.png)
+![ShopSphere Logo](./frontend/src/assets/ShopSpherelogo.png)
 
 **ShopSphere** is a full-stack learning project designed to gain hands-on experience with **Spring Boot backend development** and modern **React frontend integration**. It simulates a small e-commerce platform with product browsing, cart management, and dynamic image rendering directly from the backend.  
 
