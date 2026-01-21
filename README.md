@@ -134,11 +134,5 @@ This project is for **educational purposes only**.
 
 ---
 
-## 🎯 Author
 
-**Yuvrajsinh Chauhan**
-GitHub: [https://github.com/Yuvrajsinh-chauhan5](https://github.com/Yuvrajsinh-chauhan5)
-LinkedIn: (https://www.linkedin.com/in/yuvrajsinh-chauhan-762b742b3/)
-
-```
 
